@@ -1,0 +1,14 @@
+/* style.css */
+
+.title {
+    background-color: red;
+    color:black;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.entry {
+    background-color: rgb(195, 43, 255);
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
